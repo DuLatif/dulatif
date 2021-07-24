@@ -24,3 +24,6 @@ Here are some ideas to get you started:
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
+
+
+[![Abdul Latif Mubasir GitHub stats](https://github-readme-stats.vercel.app/api?username=bj-stack-art&show_icons=true&theme=tokyonight)](https://github.com/bj-stack-art/github-readme-stats)
