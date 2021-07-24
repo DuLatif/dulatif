@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Abdul Latif Mubasir GitHub stats](https://github-readme-stats.vercel.app/api?username=bj-stack-art&show_icons=true&theme=tokyonight)](https://github.com/bj-stack-art/github-readme-stats)
+[![Abdul Latif Mubasir GitHub stats](https://github-readme-stats.vercel.app/api?username=bj-stack-art&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/bj-stack-art/github-readme-stats)
+
