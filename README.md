@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 
 [![Abdul Latif Mubasir GitHub stats](https://github-readme-stats.vercel.app/api?username=bj-stack-art&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/bj-stack-art/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bj-stack-art&exclude_repo=github-readme-stats,bj-stack-art.github.io&layout=compact&count_private=true)](https://github.com/bj-stack-art/github-readme-stats)
+
