@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 </p>
 
 
+  - 🔭 I’m currently working on <a href="https://syariahsaham.id">PT Syariah Saham Indonesia</a>
+  - 🌱 I’m currently learning MERN Stack
+  - 📫 You can reach me at my instagram [@latif.mubasir.11942](https://www.instagram.com/latif.mubasir.11942/)
+
+
 [![Abdul Latif Mubasir GitHub stats](https://github-readme-stats.vercel.app/api?username=bj-stack-art&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/bj-stack-art/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bj-stack-art&exclude_repo=github-readme-stats,bj-stack-art.github.io&layout=compact&count_private=true)](https://github.com/bj-stack-art/github-readme-stats)
