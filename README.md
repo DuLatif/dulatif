@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header Image](https://raw.githubusercontent.com/BJ-stack-art/bj-stack-art/main/dekstop.jpg)
+![Header Image](https://raw.githubusercontent.com/BJ-stack-art/bj-stack-art/main/dusk-background.jpg)
 
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 
-  - 🔭 I’m currently working on <a href="https://syariahsaham.id">PT Syariah Saham Indonesia</a>
+  - 🔭 I’m currently working as Freelancer Web Dev on <a href="https://syariahsaham.id">PT Syariah Saham Indonesia</a>
   - 🌱 I’m currently learning MERN Stack
   - 📫 You can reach me at my instagram [@latif.mubasir.11942](https://www.instagram.com/latif.mubasir.11942/)
 
