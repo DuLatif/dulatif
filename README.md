@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 
-  - 🔭 I’m currently working as Freelancer Web Dev on <a href="https://syariahsaham.id">PT Syariah Saham Indonesia</a>
+  - 🔭 I’m currently working as Junior Software Engineer on <a href="https://www.interaktiv.sg">Interaktv Pte Ltd</a>
   - 🌱 I’m currently learning MERN Stack
   - 📫 You can reach me at my instagram [@latif.mubasir.11942](https://www.instagram.com/latif.mubasir.11942/)
 
