@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header Image]([https://i.ibb.co/f4Vxb3w/Whats-App-Image-2023-10-23-at-19-34-03-0eb79e6b.jpg](https://i.ibb.co/f4Vxb3w/Whats-App-Image-2023-10-23-at-19-34-03-0eb79e6b.jpg))
+![Header Image](https://i.ibb.co/KKmfhBS/Whats-App-Image-2023-10-23-at-19-34-03-0eb79e6b-crop.jpg)
 
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
