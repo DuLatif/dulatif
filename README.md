@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header Image](https://raw.githubusercontent.com/BJ-stack-art/bj-stack-art/main/dusk-background.jpg)
+![Header Image]([https://raw.githubusercontent.com/BJ-stack-art/bj-stack-art/main/dusk-background.jpg](https://i.ibb.co/f4Vxb3w/Whats-App-Image-2023-10-23-at-19-34-03-0eb79e6b.jpg))
 
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   - 📫 You can reach me at my instagram [@latif.mubasir.11942](https://www.instagram.com/latif.mubasir.11942/)
 
 
-[![Abdul Latif Mubasir GitHub stats](https://github-readme-stats.vercel.app/api?username=bj-stack-art&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/bj-stack-art/github-readme-stats)
+[![Abdul Latif Mubasir GitHub stats](https://github-readme-stats.vercel.app/api?username=dulatif&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/dulatif/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bj-stack-art&exclude_repo=github-readme-stats,bj-stack-art.github.io&layout=compact&count_private=true)](https://github.com/bj-stack-art/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulatif&exclude_repo=github-readme-stats,bj-stack-art.github.io&layout=compact&count_private=true)](https://github.com/dulatif/github-readme-stats)
 
