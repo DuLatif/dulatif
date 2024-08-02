@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dulatif&exclude_repo=github-readme-stats,bj-stack-art.github.io&layout=compact&count_private=true)](https://github.com/dulatif/github-readme-stats)
 
+---
+[![](https://visitcount.itsvg.in/api?id=DuLatif&icon=0&color=0)](https://visitcount.itsvg.in)
