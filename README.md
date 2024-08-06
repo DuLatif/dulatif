@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 
 ## Dev Stats
 
-<a href="https://app.daily.dev/abdullatifmubasir"><img align="left" src="https://api.daily.dev/devcards/v2/1m8k53Ux1wmdWrIH0NNjl.png?type=wide&r=z2t" width="652" alt="Abdul Latif Mubasir's Dev Card"/></a>
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulatif&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+<a href="https://app.daily.dev/abdullatifmubasir"><img align="left" src="https://api.daily.dev/devcards/v2/1m8k53Ux1wmdWrIH0NNjl.png?type=wide&r=z2t" width="460" alt="Abdul Latif Mubasir's Dev Card"/></a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulatif&hide_border=true&langs_count=5" width="240" alt="Most used languages" /></p>
 
 &nbsp; <br /><br />
 
