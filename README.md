@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dulatif&" alt="dulatif" /></p>
-<br /><br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dulatif&show_icons=true&locale=en" alt="dulatif" /></p>
+<p><img width="360" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dulatif&" alt="dulatif" /></p>
+
+<p><img width="340" align="center" src="https://github-readme-stats.vercel.app/api?username=dulatif&show_icons=true&locale=en" alt="dulatif" /></p>
 
 
 
