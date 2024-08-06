@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header Image](https://i.ibb.co/KKmfhBS/Whats-App-Image-2023-10-23-at-19-34-03-0eb79e6b-crop.jpg)
+![Header Image](https://raw.githubusercontent.com/DuLatif/dulatif/main/dark-github-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Latif</h1>
 <h3 align="center">Coding my way through computer science, building software solutions and pushing my skills to the next level.</h3>
