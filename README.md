@@ -56,12 +56,12 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulatif&hide_border=true&langs_count=5" width="240" alt="Most used languages" /></p>
 
-&nbsp; <br /><br />
+&nbsp; <br />
 
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dulatif&" alt="dulatif" /></p>
-<br />
+<br /><br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dulatif&show_icons=true&locale=en" alt="dulatif" /></p>
 
 
